@@ -27,15 +27,16 @@ Este projeto tem como objetivo analisar os indicadores-chave de marketing de uma
 
 **Resultados**
 
-Os resultados obtidos a partir da análise de Cohort foram:
+Com base na análise dos dados da Y.alfafish, podemos destacar os seguintes resultados:
 
--   O LTV médio dos clientes aumentou ao longo do tempo.
--   O CAC médio diminuiu ao longo do tempo.
--   O ROI médio aumentou ao longo do tempo.
--   A análise da Cohort mostrou que o LTV médio dos clientes é maior para aqueles que se inscreveram no primeiro período de tempo.
--   A análise da Cohort mostrou que o CAC médio é menor para aqueles que se inscreveram no último período de tempo.
--   A análise da Cohort mostrou que o ROI médio é maior para aqueles que se inscreveram no primeiro período de tempo.
+-   A taxa de retenção semanal é de 15% e a taxa de retenção mensal é de 3%, indicando que a empresa precisa trabalhar em estratégias para melhorar a fidelidade dos usuários.
+-   A mediana de tempo para a primeira compra é de 5 minutos, sugerindo que os clientes pesquisam os produtos em outros sites antes de decidirem comprar na Y.alfafish.
+-   O volume médio de compras na Y.alfafish é de 5.48057663455887 e não varia significativamente ao longo dos meses.
+-   O lucro bruto médio adquirido agrupado mensalmente é de 3421.
+-   O valor total de custos pagos ao marketing é de 329131.62 e as origens 3,4,5,2,1 têm o maior valor investido.
+-   Os gastos com marketing aumentaram significativamente nos meses 4, 5 e 6.
+-   O ROI mais alto foi no segundo mês, mas todos os ROIs foram menores que 100, indicando prejuízo para cada usuário no site.
 
 **Conclusão**
 
-Com base nos resultados obtidos, pode-se concluir que a empresa está melhorando seus indicadores de marketing ao longo do tempo. Além disso, foi possível identificar pontos de otimização, como investir mais em marketing para atrair mais clientes nos períodos em que o LTV é maior. Essas informações podem ser usadas para tomar decisões mais informadas e aumentar ainda mais o sucesso da empresa no mercado.
+Com base nos resultados obtidos, concluímos que a Y.alfafish precisa ajustar seus métodos de marketing para torná-los mais eficientes ou mais baratos, visando tornar o negócio rentável. É preciso trabalhar em estratégias para melhorar a fidelidade dos usuários e investir em fontes de tráfego mais rentáveis. A análise de dados e a utilização de métricas são fundamentais para a tomada de decisões mais informadas e para o sucesso da empresa no mercado.
